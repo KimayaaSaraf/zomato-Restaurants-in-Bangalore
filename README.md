@@ -1,1 +1,1 @@
-# zomato-Restaurants-in-Bangalore
+# Zomato-Restaurants-in-Bangalore
