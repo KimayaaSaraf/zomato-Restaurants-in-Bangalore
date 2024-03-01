@@ -6,14 +6,14 @@ The basic idea of analyzing the Zomato dataset is to get a fair idea about the f
 Opportunity:-
 From all the Data available, we can bring out some neat insights or conclusions such as
 
-Which franchise has the highest number of Restaurants?
-How many Restaurants are accepting online orders?
-How many have a book table facility?
-Which location has the highest number of Restaurants?
-How many types of Restaurant types are there?
-What is the most liked Restaurant type?
-What is the Average cost for 2 persons?
-What is the most liked Dish type?
+1.Which franchise has the highest number of Restaurants?
+2.How many Restaurants are accepting online orders?
+3.How many have a book table facility?
+4.Which location has the highest number of Restaurants?
+5.How many types of Restaurant types are there?
+6.What is the most liked Restaurant type?
+7.What is the Average cost for 2 persons?
+8.What is the most liked Dish type?
 And so on…..
 
 Tools used:-
